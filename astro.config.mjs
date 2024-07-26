@@ -5,5 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://eltonnunes.github.io'
+  site: 'https://eltonnunes.github.io',
+  repo: 'about'
 });
